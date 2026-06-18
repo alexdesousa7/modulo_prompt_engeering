@@ -35,6 +35,11 @@ dist/
 .DS_Store
 Thumbs.db
 
+# Informacion importante
+Informacion Prompt Engineering/
+"Informacion Prompt Engineering"/
+
+
 # Logs and temporary files
 *.log
 *.tmp
