@@ -1,9 +1,9 @@
 # Prompt Engineering — Máster en IA (Pontia)
 
-`https://img.shields.io/badge/Status-Active-blue?style=for-the-badge`
-`https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python`
-`https://img.shields.io/badge/Jupyter-Notebooks-F37626?style=for-the-badge&logo=jupyter`
-`https://img.shields.io/badge/AI-Prompt_Engineering-8A2BE2?style=for-the-badge&logo=openai`
+![Status](https://img.shields.io/badge/Status-Active-blue?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebooks-F37626?style=for-the-badge&logo=jupyter)
+![Prompt Engineering](https://img.shields.io/badge/AI-Prompt_Engineering-8A2BE2?style=for-the-badge&logo=openai)
 
 Este repositorio recopila las **prácticas, ejercicios y notebooks** realizados durante el módulo de **Prompt Engineering** del Máster de Inteligencia Artificial de **Pontia**.
 
