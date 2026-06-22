@@ -16,6 +16,9 @@ Incluye ejemplos reales, experimentos y técnicas aplicadas con modelos de lengu
 - **Ejercicio_1/**  
   Notebooks y datasets del primer ejercicio práctico (Airbnb reviews, análisis, prompting aplicado).
 
+- **Ejercicio_2/**  
+  Notebook del ejercicio final (análisis de reseñas de videojuegos con LLMs, filtrado y extracción estructurada, generando los archivos csv y json solicitados).
+
 - **1-PromptEngineering/**  
   Materiales y ejemplos del módulo: principios, técnicas, iteración, ampliación y transformación de prompts.
 
